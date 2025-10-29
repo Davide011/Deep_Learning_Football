@@ -1,4 +1,12 @@
 # Football Player and Element Detection with Deep Learning
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/Deep--Learning-PyTorch-ee4c2c.svg)](https://pytorch.org/)
+[![YOLOv5](https://img.shields.io/badge/Detection-YOLOv5-FF6600.svg)](https://github.com/ultralytics/yolov5)
+[![Faster R-CNN](https://img.shields.io/badge/Detection-Faster_R--CNN-6f42c1.svg)](https://pytorch.org/vision/stable/models.html#faster-r-cnn)
+[![VGG16](https://img.shields.io/badge/CNN-VGG16-008080.svg)](https://pytorch.org/vision/stable/models.html#vgg)
+[![OpenCV](https://img.shields.io/badge/Vision-OpenCV-0055FF.svg)](https://opencv.org/)
+[![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
+
 
 ![Project Banner](https://github.com/user-attachments/assets/6bdca30a-bd1b-4a86-a022-bc865d02efaa)
 
